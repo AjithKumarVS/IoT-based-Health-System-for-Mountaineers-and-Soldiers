@@ -3,4 +3,5 @@ This project envisions on designing an IoT based dynamic health surveilling syst
 
 To achieve high accuracy in our results, we rely on three vital signs precisely body temperature, pulse rate and pulse oximetry. Significant rise or drop in body temperature shows signs of unhealthy conditions and considering body temperature as our primary vital sign, we can achieve better results. The most commonly read vital sign, pulse can be used to detect a wide range of emergency conditions, such as cardiac arrest, pulmonary embolisms, and vasovagal syncope. In addition, pulse oximetry measures the level of oxygen in the blood which serves as an indicator of respiratory function and can aid in diagnostics of conditions such as hypoxia (low oxygen reaching the body’s tissues). As such, pulse oximetry is a valuable addition to a general health monitoring system. On the other hand, GPS module aid in supporting our predictions. Suppose if our system outputs Hyperthermia and the position coordinates are somewhere near high humid or desert combat areas then we will be very sure about our medical predictions.
 
-
+# Method of Action
+![Image](C:\Users\AJith\IoT-based-Health-System-for-Mountaineers-and-Soldiers\C1.png)
